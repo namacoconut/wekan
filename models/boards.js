@@ -126,7 +126,7 @@ Boards.attachSchema(
       optional: true,
     },
     'labels.$.color': {
-      /**
+      /*
        * color of a label.
        *
        * Can be amongst `green`, `yellow`, `orange`, `red`, `purple`,
